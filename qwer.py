@@ -1,6 +1,5 @@
 import streamlit as st
 from audiorecorder import audiorecorder
-print("import 성공")
 from gtts import gTTS 
 import openai
 import os
