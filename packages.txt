@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 altair==5.5.0
 annotated-types==0.7.0
 anyio==4.9.0
@@ -52,3 +53,6 @@ typing_extensions==4.14.0
 tzdata==2025.2
 urllib3==2.4.0
 watchdog==6.0.0
+=======
+ffmpeg
+>>>>>>> 1f81ba3 (12)
