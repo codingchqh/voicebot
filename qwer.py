@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 
-# Whisper STT
+# Whisper STT2
 def STT(audio, apikey):
     filename = 'input.mp3'
     audio.export(filename, format='mp3')
